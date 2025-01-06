@@ -1,13 +1,10 @@
 # New York City Taxi Fare Prediction
 
-This project trains a machine learning model to predict taxi fares in New York City using a dataset from Kaggle. The dataset includes detailed information about taxi rides, such as pickup and dropoff locations, date and time, passenger count, and fare amounts.
-
+This project trains a machine learning model to predict taxi fares in New York City using a dataset from Kaggle. This project is a learning project, the competition already ended. 
 ## Dataset
 
 The dataset is sourced from the Kaggle competition: [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction). It contains:
-
-- **Training Data:** Historical ride data with associated fare amounts (~5 GB).
-- **Test Data:** Ride details for which the fare needs to be predicted.
+please check the website before downloading this project 
 
 ## Project Features
 
@@ -25,13 +22,14 @@ The dataset is sourced from the Kaggle competition: [New York City Taxi Fare Pre
    - Experimented with multiple algorithms:
      - Linear Regression
      - Ridge Regression
+     - lasso
+     - elastic net
      - Random Forest
      - Gradient Boosting (XGBoost)
-   - Focused on hyperparameter tuning for XGBoost for optimal performance.
 
 4. **Evaluation Metrics**:
    - Used Root Mean Squared Error (RMSE) as the primary evaluation metric.
-   - Achieved an RMSE significantly better than the baseline model.
+   - Achieved an RMSE significantly better than the baseline model. (top 30% in the competition)
 
 ## Installation
 
