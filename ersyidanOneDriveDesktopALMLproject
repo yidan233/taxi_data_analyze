@@ -1,0 +1,14 @@
+[33mcommit 161e0e9e63557cbafe2581735dcb19a65eb4742a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Yidan Wang <yidandanw@gmail.com>
+Date:   Sun Jan 5 18:49:15 2025 -0500
+
+    Initial commit
+
+__pycache__/taxi.cpython-312.pyc
+linear_model_submission
+new-york-city-taxi-fare-prediction/GCP-Coupons-Instructions.rtf
+new-york-city-taxi-fare-prediction/sample_submission.csv
+new-york-city-taxi-fare-prediction/test.csv
+new-york-city-taxi-fare-prediction/train.csv
+taxi.py
+xgb_tuned.csv
