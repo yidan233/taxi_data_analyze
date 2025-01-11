@@ -25,6 +25,7 @@ The dataset is sourced from the Kaggle competition: [New York City Taxi Fare Pre
   - Linear Regression
   - Ridge Regression
   - Lasso
+  - Random Forest
   - Elastic Net
 - Compared model performances based on RMSE and selected the best-performing model for final tuning.
 
