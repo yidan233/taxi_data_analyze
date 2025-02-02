@@ -58,14 +58,4 @@ pip install pandas numpy scikit-learn xgboost matplotlib opendatasets
 5. **Predict and generate submission file**:
    Predict taxi fares for the test dataset and generate a submission file for Kaggle.
 
-## Contributing
 
-Contributions are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-For support or queries, reach out to [your-email@example.com].
